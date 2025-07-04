@@ -4,7 +4,7 @@ __SYD.page3 = () =>{
     return __c(
         "div",
         {
-            style:`height:100vh;width:100vw;position:fixed;top:0;left:0;background:rgba(0 , 0 , 0 , .3);;display:${__p(["page3" , "close"],true) ? "none" : "flex"};align-items:center;justify-content:center;`
+            style:`height:100vh;width:100vw;position:fixed;top:0;left:0;background:rgba(0 , 0 , 0 , .7);;display:${__p(["page3" , "close"],true) ? "none" : "flex"};align-items:center;justify-content:center;`
         },
         [
             __SYD.close_meme(),
