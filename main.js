@@ -3,6 +3,8 @@ import "./variable.js"
 import "./code_assets.js"
 import "./page1.js"
 import "./page2.js"
+import "./page3.js"
+import "./footer.js"
 
 __SYD.container = () =>{
     return __c(
@@ -12,7 +14,9 @@ __SYD.container = () =>{
         },
         [
             __SYD.page1(),
-            __SYD.page2()
+            __SYD.page2(),
+            __SYD.page3(),
+            __SYD.footer()
         ]
     )
 }

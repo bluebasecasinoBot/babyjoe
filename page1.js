@@ -8,6 +8,15 @@ __SYD.page1 = () =>{
         },
         [   
             __SYD.page1_main_text(),
+            __c(
+                "p",
+                {
+                    style:"font-family:font1;font-size:18px;width:100%;max-width:900px;text-align:center;padding:0 10px;"
+                },
+                [
+                    "Welcome to Baby Joe ($BJOE), the cheekiest meme coin on Ethereum! Born from the legendary Joe Coin, Baby Joe is the rebellious little brother, bringing the “emoti guy” energy to the blockchain with wild vibes and degen dreams"
+                ]
+            ),
             __SYD.contract_adx(),
             __SYD.contact_tab_sec()
         ],
