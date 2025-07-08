@@ -8,7 +8,7 @@ __SYD.footer = () =>{
         },
         [
             __c("a" , {style:"text-decoration:none;color:inherit;font-weight:900;font-family:font1;" , href:""},["Twitter"]),
-            __c("a" , {style:"text-decoration:none;color:inherit;font-weight:900;font-family:font1;" , href:""},["Telegram"]),
+            __c("a" , {style:"text-decoration:none;color:inherit;font-weight:900;font-family:font1;" , href:"https://t.me/babyjoe_eth"},["Telegram"]),
             __c("a" , {style:"text-decoration:none;color:inherit;font-weight:900;font-family:font1;" , href:""},["Uniswap"]),
             __c("a" , {style:"text-decoration:none;color:inherit;font-weight:900;font-family:font1;" , href:""},["DexTools"])
         ],

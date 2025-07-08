@@ -1,10 +1,12 @@
 import { __c, __g, __SYD, __u } from "./sydneyDom_v3.js"
 
-__SYD.top_front_tabs = ({img = "" , header = "baby joe"} = {}) =>{
+__SYD.top_front_tabs = ({img = "" , header = "baby joe" , link = ""} = {}) =>{
     return __c(
-        "div",
+        "a",
         {
-            class:"baby-tab"
+            class:"baby-tab",
+            href:link,
+            target:"blank"
         },
         [
             __c(

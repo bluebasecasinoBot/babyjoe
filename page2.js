@@ -45,7 +45,7 @@ __SYD.baby_joe_meme_panel = () =>{
                     __SYD.meme_stickers({size:94,  rotate:12, img:"meme12"}),
                     __SYD.meme_stickers({size:187, rotate:33, img:"meme9"}),
                     __SYD.meme_stickers({size:239, rotate:0, img:"meme5"}),
-                    // __SYD.meme_stickers({size:141, rotate:8,  img:""}),
+                    __SYD.meme_stickers({size:141, rotate:8,  img:""}),
                     __SYD.meme_stickers({size:122, rotate:44, img:"meme10"}),
                     __SYD.meme_stickers({size:250, rotate:21, img:"meme6"}),
                     // __SYD.meme_stickers({size:98,  rotate:0,  img:""}),

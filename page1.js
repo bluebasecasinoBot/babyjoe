@@ -94,7 +94,7 @@ __SYD.contact_tab_sec = () =>{
         [
             __SYD.top_front_tabs({header:"Uniswap" , img:"uniswap"}),
             __SYD.top_front_tabs({header:"Dextools" , img:"dexTool"}),
-            __SYD.top_front_tabs({header:"Telegram" , img:"telegram"}),
+            __SYD.top_front_tabs({header:"Telegram" , img:"telegram" , link:"https://t.me/babyjoe_eth"}),
             __SYD.top_front_tabs({header:"Twitter" , img:"twitter"})
         ]
     )
